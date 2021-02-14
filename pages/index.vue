@@ -21,7 +21,7 @@
                   AMRenders
                   <b-icon-brush-fill />
                 </b-button>
-                <b-button block variant="transparent" href="https://drive.google.com/file/d/1H3lRUslNRwlhDd5mg2so58NnjQ4Ssgm-/view?usp=sharing" target="_blank">
+                <b-button block variant="transparent" href="https://drive.google.com/file/d/14illNYqwcqjMKRVLp9E8XiwxJpSUQZm1/view?usp=sharing" target="_blank">
                   Resume
                   <b-icon-file-arrow-down-fill />
                 </b-button>
